@@ -50,3 +50,7 @@ The API key is stored in a `.env` file as:
     ```bash
    npm start
     
+## Hosting
+
+This has been deployed onto Vercel:
+https://101239401-comp3123-labtest2.vercel.app/
